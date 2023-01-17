@@ -12,5 +12,7 @@ The overview of this project is to showcase investors that a bike sharing progra
 ![2023-01-13 (6)](https://user-images.githubusercontent.com/111711885/212290599-15f66a24-fac1-4be8-aac1-4bb6053ad60c.png)
 ![2023-01-13](https://user-images.githubusercontent.com/111711885/212290636-183d96d3-cce6-4c0e-93e9-bb1743f766aa.png)
 
+[link to tableau dashboard] https://public.tableau.com/app/profile/deborah.nobles
+
 ## Summary
 Based off the results, it is safe to conclude that the bike sharing program would be successful in any big city. Bike riding id male dominant based off the results but everyone uses it. A lot of people use it in terms of getting to and from work. I would do another worksheet and calculate areas where there are a lot businesses because that would generate more usage of the rentals.
